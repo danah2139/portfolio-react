@@ -1,0 +1,39 @@
+.card {
+    box-shadow: var(--shadow-default);
+    width: 100%;
+    border-radius: 0.5rem;
+    transition: box-shadow 0.3s ease-in-out;
+}
+
+.card:hover {
+    box-shadow: var(--shadow-default-hover);
+}
+
+.horizontal {
+    display: flex;
+}
+
+@media only screen and(max-width: 600px) {
+    .card {
+        width: 100%;
+    }
+}
+
+.card_header {
+    padding: 2rem;
+    padding-bottom: 0;
+    box-shadow: var(--shadow-bottom);
+    background-color: var(--main-color);
+    border-top-left-radius: 0.5rem;
+    border-top-right-radius: 0.5rem;
+    color: #fff;
+}
+
+.card_titles {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    width: 100%;
+}

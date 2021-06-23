@@ -1,0 +1,13 @@
+.icon {
+    margin-bottom: 1rem;
+}
+
+.titles {
+    margin-bottom: 1rem;
+}
+
+.header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

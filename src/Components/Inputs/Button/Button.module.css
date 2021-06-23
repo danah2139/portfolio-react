@@ -1,0 +1,17 @@
+.btn {
+    background-color: var(--main-color);
+    color: #fff;
+    height: 5rem;
+    width: 12rem;
+    font-size: 2rem;
+    cursor: pointer;
+    border-radius: 0.5rem;
+    border: none;
+    box-shadow: var(--default-shadow);
+    transition: opacity 0.2s ease-in-out background-color 0.2s ease-in-out;
+    font-family: Roboto;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
