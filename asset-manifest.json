@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5dfbbd0b.chunk.css",
+    "main.js": "/static/js/main.24b6abce.chunk.js",
+    "main.js.map": "/static/js/main.24b6abce.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.b83279d6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.b83279d6.js.map",
+    "static/js/2.51c43dd4.chunk.js": "/static/js/2.51c43dd4.chunk.js",
+    "static/js/2.51c43dd4.chunk.js.map": "/static/js/2.51c43dd4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.5dfbbd0b.chunk.css.map": "/static/css/main.5dfbbd0b.chunk.css.map",
+    "static/js/2.51c43dd4.chunk.js.LICENSE.txt": "/static/js/2.51c43dd4.chunk.js.LICENSE.txt",
+    "static/media/cSharp.7f58ab59.png": "/static/media/cSharp.7f58ab59.png",
+    "static/media/covid19.f48c4be3.png": "/static/media/covid19.f48c4be3.png",
+    "static/media/dana-mid-course-project.netlify.app_.e521bce5.png": "/static/media/dana-mid-course-project.netlify.app_.e521bce5.png",
+    "static/media/github.1c95b85d.png": "/static/media/github.1c95b85d.png",
+    "static/media/htmlcss.26606a7d.png": "/static/media/htmlcss.26606a7d.png",
+    "static/media/linkedin.f1d66832.jpg": "/static/media/linkedin.f1d66832.jpg",
+    "static/media/mongodb.03483ee7.png": "/static/media/mongodb.03483ee7.png",
+    "static/media/nodejs.c2e22c63.png": "/static/media/nodejs.c2e22c63.png",
+    "static/media/python.2e65c2b7.png": "/static/media/python.2e65c2b7.png",
+    "static/media/react.91135b26.png": "/static/media/react.91135b26.png",
+    "static/media/redux.1b4bb5fc.png": "/static/media/redux.1b4bb5fc.png",
+    "static/media/scss.6747d5c6.png": "/static/media/scss.6747d5c6.png",
+    "static/media/tor4u-finish-project.herokuapp.com_.b6f73b17.png": "/static/media/tor4u-finish-project.herokuapp.com_.b6f73b17.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b83279d6.js",
+    "static/js/2.51c43dd4.chunk.js",
+    "static/css/main.5dfbbd0b.chunk.css",
+    "static/js/main.24b6abce.chunk.js"
+  ]
+}
